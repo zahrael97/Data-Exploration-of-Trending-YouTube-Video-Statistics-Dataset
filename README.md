@@ -1,1 +1,10 @@
-# Data-Exploration-of-Trending-YouTube-Video-Statistics-Data-set
+What is Exploratory Data Analysis?
+
+
+Exploratory data analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods.This step is very important especially when we arrive at modeling the data in order to apply Machine learning. Plotting in EDA consists of Histograms, Box plot, Scatter plot and many more. It often takes much time to explore the data. Through the process of EDA, we can ask to define the problem statement or definition on our data set which is very important.
+
+Data we are exploring
+
+
+YouTube has facilitated engagement between institutions and individuals, such as between universities and prospective students, and between businesses and employees. Also, some YouTube videos increase awareness of social issues , allow broadened social contact, and overcome stereotypes of minorities and minority viewpoints.
+This dataset is a daily record of the top trending YouTube videos, From Kaggle Trending YouTube Video Statistics, this dataset includes several months (and counting) of data on daily trending YouTube videos. Data is included for the US, GB, DE, CA, and FR regions (USA, Great Britain, Germany, Canada, and France, respectively), with up to 200 listed trending videos per day.
