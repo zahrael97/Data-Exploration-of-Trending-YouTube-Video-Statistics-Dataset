@@ -12,3 +12,7 @@ This dataset is a daily record of the top trending YouTube videos, From Kaggle T
 Link to my kernel
 
 https://www.kaggle.com/zahraelhamraoui/data-exploration-of-trending-youtube-video-statist
+
+Link to medium post
+
+https://medium.com/@zahraelhamraoui1997/exploratory-data-analysis-of-trending-youtube-video-statistics-in-france-315c4c53f591
