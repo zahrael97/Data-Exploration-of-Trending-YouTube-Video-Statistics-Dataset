@@ -8,3 +8,7 @@ Data we are exploring
 
 YouTube has facilitated engagement between institutions and individuals, such as between universities and prospective students, and between businesses and employees. Also, some YouTube videos increase awareness of social issues , allow broadened social contact, and overcome stereotypes of minorities and minority viewpoints.
 This dataset is a daily record of the top trending YouTube videos, From Kaggle Trending YouTube Video Statistics, this dataset includes several months (and counting) of data on daily trending YouTube videos. Data is included for the US, GB, DE, CA, and FR regions (USA, Great Britain, Germany, Canada, and France, respectively), with up to 200 listed trending videos per day.
+
+Link to my kernel
+
+https://www.kaggle.com/zahraelhamraoui/data-exploration-of-trending-youtube-video-statist
