@@ -20,4 +20,4 @@ https://www.kaggle.com/zahraelhamraoui/data-exploration-of-trending-youtube-vide
 
 Link to medium post
 
-https://medium.com/@zahraelhamraoui1997/exploratory-data-analysis-of-trending-youtube-video-statistics-in-france-315c4c53f591
+https://medium.com/datadriveninvestor/exploratory-data-analysis-of-trending-youtube-video-statistics-in-france-48aaa860f832
